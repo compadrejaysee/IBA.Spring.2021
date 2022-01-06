@@ -1,0 +1,45 @@
+1. To see the documentation (PDF) file for the project: 
+
+Go to Documentation PDF -> Open the file name (BI Final Project - Documentation - 14908) 
+
+
+2. To see the dashboards and story: 
+
+Go to Dashboards and Story -> Open file (Dashboard 1 - Customer Demographics) 
+Go to Dashboards and Story -> Open file (Dashboard 2 - Campaign Metrics) 
+Go to Dashboards and Story -> Open file (Story - Banking Marketing)
+
+NOTE: Story file also contains the snaps of dashboards. So if you do not want to see the dashboards separately, you can see it in the story PDF file. 
+
+3. To see the Jupyter Notebook: 
+
+Go to Wrangling -> For PDF: Open file (banking_marketing_wrangling.pdf)
+For Notebook -> Open file (banking_marketing.ipynb)
+
+4. To see the Tableau book: 
+
+Go to Tableau Book -> Open file (Banking_Marketing.twb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
